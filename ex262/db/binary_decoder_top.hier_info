@@ -1,0 +1,15 @@
+|binary_decoder_2to4
+binary_in[0] => decoded_out.IN0
+binary_in[0] => decoded_out.IN0
+binary_in[0] => decoded_out.IN0
+binary_in[0] => decoded_out.IN0
+binary_in[1] => decoded_out.IN1
+binary_in[1] => decoded_out.IN1
+binary_in[1] => decoded_out.IN1
+binary_in[1] => decoded_out.IN1
+decoded_out[0] <= decoded_out.DB_MAX_OUTPUT_PORT_TYPE
+decoded_out[1] <= decoded_out.DB_MAX_OUTPUT_PORT_TYPE
+decoded_out[2] <= decoded_out.DB_MAX_OUTPUT_PORT_TYPE
+decoded_out[3] <= decoded_out.DB_MAX_OUTPUT_PORT_TYPE
+
+

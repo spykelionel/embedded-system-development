@@ -1,0 +1,15 @@
+vendor_name = ModelSim
+source_file = 1, C:/Users/Null/Desktop/embedded system development/EQ2/eq2_top.vhd
+source_file = 1, C:/Users/Null/Desktop/embedded system development/EQ2/eq1.vhd
+source_file = 1, C:/Users/Null/Desktop/embedded system development/EQ2/db/eq2_top.cbx.xml
+source_file = 1, c:/altera/10.1/quartus/libraries/vhdl/ieee/prmtvs_b.vhd
+source_file = 1, c:/altera/10.1/quartus/libraries/vhdl/ieee/prmtvs_p.vhd
+source_file = 1, c:/altera/10.1/quartus/libraries/vhdl/ieee/timing_b.vhd
+source_file = 1, c:/altera/10.1/quartus/libraries/vhdl/ieee/timing_p.vhd
+design_name = eq2_top
+instance = comp, \aeqb~output\, aeqb~output, eq2_top, 1
+instance = comp, \b[1]~input\, b[1]~input, eq2_top, 1
+instance = comp, \a[0]~input\, a[0]~input, eq2_top, 1
+instance = comp, \a[1]~input\, a[1]~input, eq2_top, 1
+instance = comp, \b[0]~input\, b[0]~input, eq2_top, 1
+instance = comp, \aeqb~0\, aeqb~0, eq2_top, 1
